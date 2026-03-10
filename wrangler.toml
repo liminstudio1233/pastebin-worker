@@ -29,11 +29,11 @@ custom_domain = true
 
 [[kv_namespaces]]
 binding = "PB"  # do not touch this
-id = "435f8959b9de485ea48751ba557d90f5"  # id of your KV namespace
+id = "cb865a1915fb416289131e23ad92956f"
 
 [[r2_buckets]]
 binding = "R2"  # do not touch this
-bucket_name = "pb-shz-al"  # bucket name of your R2 bucket
+bucket_name = "pb-shz-al"
 
 [vars]
 # must be consistent with your routes
