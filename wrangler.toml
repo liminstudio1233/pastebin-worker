@@ -1,6 +1,9 @@
 name = "pb"
 compatibility_date = "2025-04-24"
 
+account_id = "3780863a88f57307977bf49b8478a4a5"
+api_token = "zL6zd2HQveV59G_85aKTMCai6fc-BHZNCloL8qbN"
+
 workers_dev = false
 main = "worker/index.ts"
 
